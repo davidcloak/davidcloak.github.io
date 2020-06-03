@@ -1,0 +1,63 @@
+body{
+	background-color: #596569;
+}
+
+#homeWrapper{
+    height: 80%;
+    width: 25%;
+    position: absolute;
+    left: 75%;
+    top: 20%;
+    /*
+    margin-left: 75%;
+    
+    margin-top: 10%*/
+}
+
+#david{
+	margin-left: 150px;
+	margin-top: 225px;
+}
+
+#david h1{
+	font-size: 320%;
+	margin-bottom: 1px;
+}
+
+#david p{
+	font-size: 200%;
+	margin-left: 15px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+#line p{
+	margin-left: -8px;
+	margin-top: 0px;
+	height: 3px;
+	width: 300px;
+	position: absolute;
+	background-color: black;
+}
+
+#button{
+	position: absolute;
+	margin-left: 50px;
+}
+
+#button p{
+	width: 125px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: red;
+}
+
+#button a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+
+#button a:hover{
+	font-weight: bold;
+}

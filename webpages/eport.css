@@ -2,11 +2,16 @@
 	height: 900px;
 }
 
-body #homeWrapper{
-	background-image: url("../images/backgroundHome.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
+#homeWrapper{
+    height: 80%;
+    width: 25%;
+    position: absolute;
+    left: 75%;
+    top: 20%;
+    /*
+    margin-left: 75%;
+    
+    margin-top: 10%*/
 }
 
 #david{

@@ -2,6 +2,19 @@ body{
 	background-color: #596569;
 }
 
+#welcomeDiv{
+    margin-left: 25%;
+    margin-right: 45%;
+    margin-top: 15%;
+    text-align: center;
+}
+
+#welcomeDiv p{
+    margin-top: 1em;
+    font-size: 1em;
+    
+}
+
 #homeWrapper{
     height: 80%;
     width: 25%;
@@ -35,7 +48,7 @@ body{
 	margin-left: -8px;
 	margin-top: 0px;
 	height: 3px;
-	width: 300px;
+	width: 275px;
 	position: absolute;
 	background-color: black;
 }

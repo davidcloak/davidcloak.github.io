@@ -5,7 +5,7 @@ body{
 #welcomeDiv{
     margin-left: 25%;
     margin-right: 45%;
-    margin-top: 15%;
+    margin-top: 15em;
     text-align: center;
     height: auto;
     width: 35vw;
@@ -24,11 +24,11 @@ body{
 }
 
 #homeWrapper{
-    height: 80%;
+    height: 75%;
     width: 25%;
     position: absolute;
     left: 75%;
-    top: 20%;
+    top: 25%;
 }
 
 #line p{

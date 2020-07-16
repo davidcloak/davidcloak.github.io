@@ -26,7 +26,7 @@ body{
 #homeWrapper{
     height: 75%;
     width: 25%;
-    position: absolute;
+    position: fixed;
     left: 75%;
     top: 25%;
 }
